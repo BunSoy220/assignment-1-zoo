@@ -1,5 +1,13 @@
 body {
   font-family: Gill Sans, sans-serif;
-  background-color: salmon;
+  background-color: limegreen;
   text-align: center;
+}
+
+img {  
+  border-radius: 50%;
+  border-color: brown;
+  border-style: double;
+  max-width: auto;  
+  height: auto;  
 }
